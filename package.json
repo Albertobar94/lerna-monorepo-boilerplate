@@ -11,7 +11,7 @@
   ],
   "scripts": {
     "api-docs":"scripty",
-    "rm:modules": "scripty",
+    "rm-modules": "scripty",
     "dev": "scripty",
     "start": "scripty",
     "build": "scripty",
